@@ -10,6 +10,6 @@ It is focused on developing and sharing best practices around animal husbandry t
 - Wallets rised for Collaborators, for Clients, For Partners
 - Chiken hubs open
 - Integrations for better practices made
-- Eggs, feathers and coins minted
+- Eggs, feathers and clean coins minted
 
 
